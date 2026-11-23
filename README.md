@@ -4,6 +4,12 @@
   <img src="assets/banner.png" width="800">
 </div>
 
+![Platform](https://img.shields.io/badge/platform-Firefox-FF7139?logo=firefoxbrowser)
+![Website](https://img.shields.io/badge/website-itch.io-fa5c5c?logo=itchdotio&logoColor=white)
+![Version](https://img.shields.io/badge/version-V1-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Hide Games on itch.io
 
 A Firefox extension that hides games on [itch.io](https://itch.io) by genre (Visual Novel, Survival, Adventure and more). You choose exactly which genres to hide with simple checkboxes.
