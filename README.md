@@ -1,10 +1,22 @@
-# Itch.Io-TagShield
+# Itch.Io TagShield
+
+<div align="center">
+  <img src="assets/banner.png" width="800">
+</div>
 
 # Hide Games on itch.io
 
 A Firefox extension that hides games on [itch.io](https://itch.io) by genre (Visual Novel, Survival, Adventure and more). You choose exactly which genres to hide with simple checkboxes.
 
 > **Note:** For now this extension works **only on Firefox**. It has **not been tested** on Chromium-based browsers (Chrome, Edge, Brave, etc.), so it may not work there.
+
+<div align="center">
+  <img src="assets/preview2.png" width="800">
+</div>
+
+<div align="center">
+  <img src="assets/preview1.png" width="800">
+</div>
 
 ## Features
 
@@ -27,6 +39,10 @@ The extension is removed when Firefox is closed. For a permanent install, it nee
 1. Click the extension icon in the Firefox toolbar.
 2. Check the genres you want to hide.
 3. Games of those genres disappear from itch.io pages right away.
+
+<div align="center">
+  <img src="assets/popup.jpg" width="500">
+</div>
 
 ## Limitations
 
